@@ -2,6 +2,8 @@ package opcional1;
 
 import java.awt.Color;
 
+////hjhjhjh
+
 import java.awt.Graphics;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;

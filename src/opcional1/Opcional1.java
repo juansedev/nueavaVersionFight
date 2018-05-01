@@ -19,7 +19,7 @@ import javax.swing.JPanel;
 import javax.swing.WindowConstants;
 
 /**
- * @author JS
+ * @author Prueba 2.0
  */
 public class Opcional1 extends JFrame {
 
